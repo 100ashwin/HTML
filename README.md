@@ -27,5 +27,4 @@ HTML (HyperText Markup Language) is the most basic building block of the Web. It
 
 - HTML is a case insensitive language `<H1>` and `<h1>` tags are the same. (best practice, use lowercase.)
 
-First Website code :  [First Website](https://github.com/100ashwin/HTML/Chapter-1/index.html)
-
+See the code of First Website :  [Website Code](https://github.com/100ashwin/HTML/blob/main/Chapter-1/index.html)  
